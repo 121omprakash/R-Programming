@@ -7,8 +7,6 @@ Welcome to my R Programming learning repository! This repository is created to s
 - [Getting Started](#getting-started)
 - [Code Samples](#code-samples)
 - [Resources](#resources)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -25,4 +23,4 @@ To get started with R programming, follow these steps:
    Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/R-Programming.git
+   git clone https://github.com/121omprakash/R-Programming.git
